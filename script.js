@@ -251,7 +251,7 @@ Back.addEventListener("click", function(){
     },500); 
     setTimeout(function(){
         
-        window.location.href = "https://ale20025.github.io/Entrada/";
+        window.location.href = "https://ale20025.github.io/Tienda/";
     },1000); 
 });
 
